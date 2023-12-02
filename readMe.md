@@ -1,4 +1,4 @@
-harsh msishra
+harsh mishra
 
 # note => first we need to add the restaurant 
 in below format
